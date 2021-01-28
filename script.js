@@ -1,0 +1,1 @@
+document.body.innerHTML= <h1>cristi hacker daje in java xD</h1>
